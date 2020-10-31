@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="8.1.0"/>
+	<deviceVariant value="Cortex M.CC1310F128"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="18.1.2.LTS"/>
+	<isElfFormat value="true"/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<ignoreDefaultCCSSettings value="true"/>
+	<templateProperties value="id=tirtos_builds_CC1310_LAUNCHXL_release_ccs.projectspec.tirtos_builds_CC1310_LAUNCHXL_release_ccs,products=com.ti.SIMPLELINK_CC13X0_SDK,xdcToolsVersion=3.50.999,target=ti.targets.arm.elf.M3,platform=ti.platforms.simplelink:CC1310F128,buildProfile=release,configuroOptions= --compileOptions &quot; -DDeviceFamily_CC13X0 &quot;"/>
+	<origin value="D:\simplelink_cc13x0_sdk_2_10_00_36\kernel\tirtos\builds\CC1310_LAUNCHXL\release\ccs\tirtos_builds_CC1310_LAUNCHXL_release_ccs.projectspec"/>
+	<filesToOpen value=""/>
+</projectOptions>
